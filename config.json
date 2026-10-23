@@ -1,0 +1,9 @@
+{
+  "watch_path": "~/Desktop",
+  "rules": {
+    "Screenshots": [".png", ".jpg", ".jpeg"],
+    "Documents": [".pdf", ".docx", ".txt", ".csv", ".xlsx"],
+    "Archives": [".zip", ".tar", ".gz", ".dmg"],
+    "Code": [".py", ".js", ".json", ".sh"]
+  }
+}
